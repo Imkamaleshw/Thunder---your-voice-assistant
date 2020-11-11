@@ -7,5 +7,6 @@ Make sure to install the following modules before running the program:
 -speechrecognition
 -wikipedia
 -datetime
+-PyAudio
 
 
